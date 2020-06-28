@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806848730404",
+    "firebase_url": "https://digency-app-ca991.firebaseio.com",
+    "project_id": "digency-app-ca991",
+    "storage_bucket": "digency-app-ca991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806848730404:android:51dfe90abb9646d7878fb1",
+        "android_client_info": {
+          "package_name": "com.muhammadali.buddiesgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806848730404-tjcbial9mid00828hv8lrvd9ao4h5u5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhammadali.buddiesgram",
+            "certificate_hash": "e595f91053ef9e23c1fa8d533fdcb525323f5a52"
+          }
+        },
+        {
+          "client_id": "806848730404-3htle05otk8tkcrh3fqmegihs4641r9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqM0dHz9lw6odka6kXD-pFKEtfl-EvGVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806848730404-3htle05otk8tkcrh3fqmegihs4641r9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
